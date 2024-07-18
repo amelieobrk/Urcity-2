@@ -1,0 +1,5 @@
+[[headers]]
+  for = "/public/build/*.gz"
+  [headers.values]
+    Content-Encoding = "gzip"
+    Content-Type = "application/javascript"
