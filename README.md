@@ -64,7 +64,7 @@ https://www.youtube.com/watch?v=MrP8m6J5tPI
 
 
 ### Authors
-Amelie Oberkirch
-Lena-Marie Munderich
-Tatiana Nazarova
-Tim Schumacheruc0u8232 
+Amelie Oberkirch,
+Lena-Marie Munderich,
+Tatiana Nazarova,
+Tim Schumacher
